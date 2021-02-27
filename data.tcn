@@ -1,45 +1,4 @@
 
-TudbuT {
-    points: 60
-}
-
-
-Pip {
-    inviter: TudbuT
-    points: 0
-}
-
-
-Soviet {
-    inviter: ohLanz
-    points: 0.0
-}
-
-
-hurb {
-    inviter: TudbuT
-    points: 5.5
-}
-
-
-ohLanz {
-    inviter: hurb
-    points: 9.0
-}
-
-
-ThomasWasHere {
-    inviter: Fighterchef
-    points: 0.0
-}
-
-
-Fighterchef {
-    inviter: TudbuT
-    points: 2.0
-}
-
-
 twitchycraft {
     inviter: TudbuT
     points: 2.0
@@ -52,9 +11,56 @@ Joss {
 }
 
 
+Pip {
+    inviter: TudbuT
+    points: 0
+}
+
+
+TudbuT {
+    points: 60.25
+}
+
+
+FaxHack {
+    inviter: ohLanz
+    points: 0
+}
+
+
+Soviet {
+    inviter: ohLanz
+    points: 0.0
+}
+
+
+hurb {
+    inviter: TudbuT
+    points: 6.0
+}
+
+
+ohLanz {
+    inviter: hurb
+    points: 10.0
+}
+
+
+ThomasWasHere {
+    inviter: Fighterchef
+    points: 0.0
+}
+
+
 LoliInBox {
     inviter: TudbuT
     points: 1.0
+}
+
+
+Fighterchef {
+    inviter: TudbuT
+    points: 2.0
 }
 
 
