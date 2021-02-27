@@ -1,0 +1,18 @@
+plugins {
+    id 'java'
+}
+
+group 'tudbut.ttcpinvites'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile files("TuddyLIB.jar")
+}
+
+test {
+    useJUnitPlatform()
+}

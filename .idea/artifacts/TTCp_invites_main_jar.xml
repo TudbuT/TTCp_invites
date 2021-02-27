@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TTCp_invites.main:jar">
+    <output-path>$PROJECT_DIR$/</output-path>
+    <root id="archive" name="main.jar">
+      <element id="module-output" name="TTCp_invites.main" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/TuddyLIB.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
+    </root>
+  </artifact>
+</component>
