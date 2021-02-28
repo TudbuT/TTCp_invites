@@ -1,24 +1,31 @@
 
-twitchycraft {
-    inviter: TudbuT
-    points: 2.0
+marsfisch44 {
+    inviter: autowert
+    points: 0
 }
 
 
-Joss {
-    inviter: TudbuT
-    points: 2.0
-}
-
-
-Pip {
+AAdam {
     inviter: TudbuT
     points: 0
 }
 
 
-TudbuT {
-    points: 60.25
+Eh {
+    inviter: TudbuT
+    points: 0
+}
+
+
+Tilki {
+    inviter: ohLanz
+    points: 0
+}
+
+
+Spejsas {
+    inviter: autowert
+    points: 0
 }
 
 
@@ -28,21 +35,69 @@ FaxHack {
 }
 
 
-Soviet {
+LionUnavailable {
     inviter: ohLanz
-    points: 0.0
+    points: 0
+}
+
+
+goldenskipth {
+    inviter: ohLanz
+    points: 0
 }
 
 
 hurb {
     inviter: TudbuT
-    points: 6.0
+    points: 12.5
 }
 
 
-ohLanz {
-    inviter: hurb
-    points: 10.0
+nazi {
+    inviter: ohLanz
+    points: 0
+}
+
+
+iTropBob {
+    inviter: ohLanz
+    points: 0
+}
+
+
+Bjot {
+    inviter: ohLanz
+    points: 0
+}
+
+
+CrazyShoe {
+    inviter: autowert
+    points: 0
+}
+
+
+CUM {
+    inviter: ohLanz
+    points: 0
+}
+
+
+Baran VHACKER {
+    inviter: ohLanz
+    points: 0
+}
+
+
+cunn {
+    inviter: ohLanz
+    points: 0
+}
+
+
+Based {
+    inviter: autowert
+    points: 0
 }
 
 
@@ -58,13 +113,119 @@ LoliInBox {
 }
 
 
+PoisonPotato {
+    inviter: TudbuT
+    points: 1.0
+}
+
+
+TopcodeOriginal1 {
+    inviter: WooHooASDF
+    points: 0
+}
+
+
+rekt. {
+    inviter: TudbuT
+    points: 0
+}
+
+
+IDontCaramel {
+    inviter: ohLanz
+    points: 0
+}
+
+
+Joss {
+    inviter: TudbuT
+    points: 2.0
+}
+
+
+TudbuT {
+    points: 74.0
+}
+
+
+ayumu {
+    inviter: autowert
+    points: 0
+}
+
+
+cherosin {
+    inviter: ohLanz
+    points: 0
+}
+
+
+Soviet {
+    inviter: ohLanz
+    points: 0.0
+}
+
+
+WooHooASDF {
+    inviter: TudbuT
+    points: 2.0
+}
+
+
+toughich {
+    points: 0
+}
+
+
+autowert {
+    inviter: TudbuT
+    points: 7.0
+}
+
+
+LaRage {
+    inviter: ohLanz
+    points: 0
+}
+
+
 Fighterchef {
     inviter: TudbuT
     points: 2.0
 }
 
 
-PoisonPotato {
+twitchycraft {
     inviter: TudbuT
-    points: 1.0
+    points: 2.0
+}
+
+
+Pip {
+    inviter: TudbuT
+    points: 0
+}
+
+
+AD194 {
+    inviter: TudbuT
+    points: 0
+}
+
+
+JacobBob {
+    inviter: autowert
+    points: 0
+}
+
+
+officiallunarclient {
+    inviter: autowert
+    points: 0
+}
+
+
+ohLanz {
+    inviter: hurb
+    points: 23.0
 }
