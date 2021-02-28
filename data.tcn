@@ -83,12 +83,6 @@ CUM {
 }
 
 
-Baran VHACKER {
-    inviter: ohLanz
-    points: 0
-}
-
-
 cunn {
     inviter: ohLanz
     points: 0
@@ -97,6 +91,12 @@ cunn {
 
 Based {
     inviter: autowert
+    points: 0
+}
+
+
+Baran VHACKER {
+    inviter: ohLanz
     points: 0
 }
 
@@ -144,7 +144,7 @@ Joss {
 
 
 TudbuT {
-    points: 74.0
+    points: 72.0
 }
 
 
@@ -179,7 +179,7 @@ toughich {
 
 autowert {
     inviter: TudbuT
-    points: 7.0
+    points: 3.0
 }
 
 
@@ -195,6 +195,12 @@ Fighterchef {
 }
 
 
+null {
+    inviter: autowert
+    points: 0
+}
+
+
 twitchycraft {
     inviter: TudbuT
     points: 2.0
@@ -207,20 +213,14 @@ Pip {
 }
 
 
-AD194 {
-    inviter: TudbuT
-    points: 0
-}
-
-
 JacobBob {
     inviter: autowert
     points: 0
 }
 
 
-officiallunarclient {
-    inviter: autowert
+AD194 {
+    inviter: TudbuT
     points: 0
 }
 
